@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Ignore server and frontend node_modules
+/Whatsapp-Business-API-NodeJS/server/node_modules/
+/Whatsapp-Business-API-NodeJS/frontend/node_modules/
+
+/Whatsapp-Business-API-NodeJS/frontend/build/
